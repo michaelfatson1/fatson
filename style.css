@@ -30,7 +30,7 @@
     font-weight: 600;
 }
 .content h1 span{
-    color: hs1(230, 71%, 54%);
+    color: hsl(230, 71%, 54%);
 }
 .content button{
     background: transparent;
